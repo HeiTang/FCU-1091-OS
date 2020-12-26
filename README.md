@@ -12,4 +12,4 @@ gcc example.c -o example -lpthread
 | 2020-11-19 | Lab3 | Multi Process |
 | 2020-12-03 | Lab4 | TCP Socket |
 | 2020-12-17 | Lab5 | Race | 
-| 2020-12-24 | Lab6 |  |
+| 2020-12-24 | Lab6 | Semaphore |
